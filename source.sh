@@ -1,0 +1,1 @@
+APP_HOME=/c/Users/fuga/.web3j/web3j-cli-shadow-1.4.1
